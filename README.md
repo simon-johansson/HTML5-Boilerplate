@@ -1,5 +1,7 @@
-# My Boilerplate
-This is the bolierplate i use for my test projects.
+# the Bare Bones Bolierplate
+I use this for my test projects, mockups and basic website wireframing.
+
+Give it a try! 
 
 ## Author
 Simon Johansson
